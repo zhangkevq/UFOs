@@ -15,10 +15,10 @@ The request from a client was to display a table organizing UFO data stored as a
 ## Results:
 ### Welcome to UFO Sightings! 
 
-![Pic 1](https://github.com/zhangkevq/UFOs/blob/main/static/images/top.PNG)
+![Pic 1](https://github.com/zhangkevq/UFOs/blob/main/static/images/top.png)
 
 ### How the filters appear when first landing on the page:
-![Pic 2](https://github.com/zhangkevq/UFOs/blob/main/static/images/bottom.PNG)
+![Pic 2](https://github.com/zhangkevq/UFOs/blob/main/static/images/bottom.png)
 
 ### How the filters appear after being used: 
 By typing in the suggested placeholder elements as the filters, the result returns 2 matches.  Make sure to type everything in lower case letters and do not have spaces at the end of the text.  Click off the input box or press enter to initiate the filter.  To reset the filter criteria, click the UFO Sightings at the top left of the website. 
